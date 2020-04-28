@@ -1,2 +1,3 @@
 # phpbookingsystemadmin
-AdminPanel of phpbookingsystem
+
+[Updates](./UPDATES.md)
