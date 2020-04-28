@@ -1,3 +1,6 @@
 # phpbookingsystemadmin
+# ADMIN PANEL
+# UPDATES
 
-[Updates](./UPDATES.md)
+> April 28 2020:-
+* Admin Panel Added
